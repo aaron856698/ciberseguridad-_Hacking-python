@@ -1,0 +1,112 @@
+# Diccionario de contraseñas comunes para pruebas de penetración
+# 🎯 Solo para uso educativo y testing ético
+
+# Contraseñas más comunes del mundo
+password
+123456
+12345678
+qwerty
+abc123
+password123
+admin
+root
+test
+guest
+
+# Variaciones numéricas
+12345
+1234567890
+111111
+000000
+123123
+321321
+
+# Teclado QWERTY
+qwertyuiop
+asdfgh
+zxcvbnm
+qwe123
+1q2w3e
+
+# Fechas comunes
+01012020
+01012021
+01012022
+01012023
+25121990
+01011980
+
+# Palabras comunes
+letmein
+welcome
+monkey
+dragon
+master
+hello
+freedom
+whatever
+
+# Variaciones de "password"
+Password
+PASSWORD
+Password123
+password1
+password!
+p@ssword
+pass123
+
+# Administración
+admin123
+administrator
+root123
+guest123
+user123
+
+# Deportes
+football
+baseball
+soccer
+basketball
+
+# Nombres comunes
+jordan
+michael
+jennifer
+alexander
+
+# Cortas y simples
+a
+aa
+aaa
+123
+12
+1
+
+# Patrones
+qwe
+asd
+zxc
+qaz
+wsx
+edc
+
+# Variaciones con mayúsculas
+Qwerty
+Abc123
+Test123
+Admin123
+
+# Símbolos al final
+password!
+123456!
+qwerty!
+admin!
+
+# Para pruebas específicas (puedes agregar las que necesites)
+zip123
+rar123
+pdf123
+excel123
+mysql123
+ftp123
+ssh123
